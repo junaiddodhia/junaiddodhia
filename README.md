@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Junaid.
-![junaid](https://github.com/junaiddodhia/junaiddodhia/blob/main/junaid.jpeg)
+<img src="https://github.com/junaiddodhia/junaiddodhia/blob/main/junaid.jpeg" width="270" height="300">
+
 I usually engineer software, occasionally write documents and always tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
 I have been in the technology space as a student, a software engineer and a coding instructor. I received my **Bachelor's in Computer Science from the University of Mumbai** and my **Master's in Information Systems from Carnegie Mellon University**.
