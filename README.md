@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Junaid.
+### Hi, I’m Junaid 👋 
 
 I usually engineer software, occasionally write documents and always tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
