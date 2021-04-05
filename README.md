@@ -1,5 +1,4 @@
 ### 👋 Hi, I’m Junaid.
-<img src="https://github.com/junaiddodhia/junaiddodhia/blob/main/junaid.jpeg" width="270" height="300">
 
 I usually engineer software, occasionally write documents and always tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
