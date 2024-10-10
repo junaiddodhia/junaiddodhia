@@ -1,6 +1,6 @@
 ### Hi, I’m Junaid 👋 
 
-I enjoy designing experiences, writing code, and telling stories. I’m a fan of white space, personal space and outer space. I like jokes too.
+I design experiences, write code, and tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
 My tech career has been multifaceted: from student to engineer, coding instructor, and designer. Through it all, my love for design has remained constant. I’m often told I have a sharp eye for detail while maintaining a strong sense of the bigger picture. What excites me most is crafting seamless, intuitive experiences that just work. My design philosophy is to prioritize minimizing cognitive load to fulfill any task, humanize interactions to reflect genuine human intentions, reduce the gap between intent and impact.
 
