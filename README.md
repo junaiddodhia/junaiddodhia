@@ -1,10 +1,10 @@
 ### Hi, I’m Junaid 👋 
 
-I usually engineer software, occasionally write documents and always tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
+I enjoy designing experiences, writing code, and telling stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
-I have been in the technology space as a student, a software engineer and a coding instructor. I received my **Bachelor's in Computer Science from the University of Mumbai** and my **Master's in Information Systems from Carnegie Mellon University**.
+My tech career has been multifaceted: from student to engineer, coding instructor, and designer. Through it all, my love for design has remained constant. I’m often told I have a sharp eye for detail while maintaining a strong sense of the bigger picture. What excites me most is crafting seamless, intuitive experiences that just work. I hold a Bachelor's in Computer Science from the University of Mumbai and a Master’s in Information Systems from Carnegie Mellon University. My favorite courses were Distributed System, API Design and Designing Human Centered Software.
 
-In the space of technology, my interests lie in **APIs, Developer Documentation and System Design**. I enjoy front end development as well. However, CSS hurts my brain sometimes. It's not that bad. I can manage it. In the space of writing and storytelling, I admire David Foster Wallace, Ernest Hemingway, Charles Bukowski and beyond.
+Outside of work, I’m an avid tennis player, and you’ll find me on the court most days. I’m also deeply interested in cinema, philosophy, comedy, ed tech, APIs, developer docs, cats, sunsets and architecture.
 
 <!---
 junaiddodhia/junaiddodhia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
