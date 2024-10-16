@@ -1,12 +1,12 @@
 ### Hi, I’m Junaid 👋 
 
-I design experiences, write code, and tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
+I'm Junaid. I design experiences, write code, and tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
-My tech career has been multifaceted: from student to engineer, coding instructor, and designer. Through it all, my love for design has remained constant. I’m often told I have a sharp eye for detail while maintaining a strong sense of the bigger picture. What excites me most is crafting seamless, intuitive experiences that just work. My design philosophy is to prioritize minimizing cognitive load to fulfill any task, humanize interactions to reflect genuine human intentions, reduce the gap between intent and impact.
+Over the course of my tech career, I’ve worn many hats: from student to engineer, coding instructor, and designer. What has remained constant is my love for design. I’m known for having a sharp eye for detail while never losing sight of the bigger picture. My mission is to craft intuitive, seamless experiences that simply work. I believe in reducing cognitive load, humanizing interactions to reflect authentic human intentions, and narrowing the gap between intent and impact.
 
-I hold a Bachelor's in Computer Science from the University of Mumbai and a Master’s in Information Systems from Carnegie Mellon University. My favorite courses were Distributed Systems, API Design and Designing Human Centered Software.
+I hold a Bachelor's in Computer Science from the University of Mumbai and a Master’s in Information Systems from Carnegie Mellon University. My academic highlights include courses on Distributed Systems, API Design, and Human-Centered Software Design.
 
-Outside of work, I’m an avid tennis player, and you’ll find me on the court most days. I’m also deeply interested in cinema, philosophy, comedy, ed tech, APIs, developer docs, cats, sunsets and architecture.
+I’m also deeply interested in tennis, cinema, philosophy, comedy, ed tech, APIs, developer docs, cats, sunsets, and architecture.
 
 <!---
 junaiddodhia/junaiddodhia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
