@@ -1,6 +1,6 @@
 ### Hi, I’m Junaid 👋 
 
-I'm Junaid. I design experiences, write code, and tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
+I design experiences, write code, and tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
 
 Over the course of my tech career, I’ve worn many hats: from student to engineer, coding instructor, and designer. What has remained constant is my love for design. I’m known for having a sharp eye for detail while never losing sight of the bigger picture. My mission is to craft intuitive, seamless experiences that simply work. I believe in reducing cognitive load, humanizing interactions to reflect authentic human intentions, and narrowing the gap between intent and impact.
 
