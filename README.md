@@ -1,12 +1,10 @@
-### Hi, I’m Junaid 👋 
+### Hi, I’m Junaid 
 
-I design experiences, write code, and tell stories. I’m a fan of white space, personal space and outer space. I like jokes too.
+I’m Junaid—an engineer, designer, and writer committed to delivering results. I’m a fan of white space, personal space, and outer space. I like jokes too.
 
-Over the course of my tech career, I’ve worn many hats: from student to engineer, coding instructor, and designer. What has remained constant is my love for design. I’m known for having a sharp eye for detail while never losing sight of the bigger picture. My mission is to craft intuitive, seamless experiences that simply work. I believe in reducing cognitive load, humanizing interactions to reflect authentic human intentions, and narrowing the gap between intent and impact.
+Throughout my tech career, I’ve been a student, engineer, designer, and instructor but my love for design has been constant. I aspire to create experiences that simply work by reducing cognitive load, humanizing interactions, and bridging the gap between intent and impact.
 
-I hold a Bachelor's in Computer Science from the University of Mumbai and a Master’s in Information Systems from Carnegie Mellon University. My academic highlights include courses on Distributed Systems, API Design, and Human-Centered Software Design.
-
-I’m also deeply interested in tennis, cinema, philosophy, comedy, ed tech, APIs, developer docs, cats, sunsets, and architecture.
+I hold a Bachelor's in Computer Science from the University of Mumbai and a Master’s in Information Systems from Carnegie Mellon University. I’m also interested in tennis, cinema, philosophy, comedy, ed tech, and architecture.
 
 <!---
 junaiddodhia/junaiddodhia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
