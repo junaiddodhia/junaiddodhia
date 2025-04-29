@@ -1,4 +1,4 @@
-Full Stack Engineer with experience at high-growth YC startups, building and scaling products in fast-paced environments. Skilled across the stack with design and management expertise, committed to delivering results. Holds a Master’s in Information Systems from Carnegie Mellon and a passion for AI’s practical potential. Open to connecting with like-minded builders and innovators.
+Hi, I’m Junaid, an engineer-turned-designer. I was an early engineer at YC-backed pipekit.io, hold a Master’s in Information Systems from Carnegie Mellon, and teach coding at Pacific Preparatory and Maven. I’m passionate about shaping tools that shape us, with a growing interest in AI’s practical potential. I enjoy tennis, good questions, and better jokes.
 
 
 <!---
